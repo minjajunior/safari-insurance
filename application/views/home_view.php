@@ -47,13 +47,31 @@
                                             <div class="unit-body"><a class="link-gray-base" href="#"><span>info@safariinsurance.co.tz</span></a></div>
                                         </div>
                                     </li>
+                                    <li>
+                                        <div class="unit flex-row unit-spacing-xs align-items-center">
+                                            <div class="unit-left unit-icon-left"><a class="icon icon-xxs icon-circle link-original  fa-twitter " href="#"></a></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="unit flex-row unit-spacing-xs align-items-center">
+                                            <div class="unit-left unit-icon-left"><a class="icon icon-xxs icon-circle icon-dark  fa-instagram " href="#"></a></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="unit flex-row unit-spacing-xs align-items-center">
+                                            <div class="unit-left unit-icon-left"><a class="icon icon-xxs icon-circle  fa-facebook " href="https://www.facebook.com/Safari-Insurance-2171440652954112/"></a></div>
+                                        </div>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="rd-navbar-group">
                         <div class="rd-navbar-panel">
-                            <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button><a class="rd-navbar-brand brand" href="<?php echo base_url()?>">Safari<br> Insurance</a>
+                            <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                            <a class="rd-navbar-brand brand" href="<?php echo base_url()?>">
+                                <img class="brand-name" src="<?php echo base_url('assets/images/logo2.png')?>" alt="Logo" />
+                            </a>
                         </div>
                         <div class="rd-navbar-nav-wrap">
                             <div class="rd-navbar-nav-inner">

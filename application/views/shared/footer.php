@@ -39,13 +39,13 @@
         <div class="row justify-content-sm-center">
             <div class="col-sm-9 col-md-11 col-xl-12">
                 <div class="row row-50">
-                    <div class="col-md-6 col-lg-10 col-xl-4">
+                    <div class="col-md-6 col-lg-10 col-xl-3">
                         <h6 class="h6 footer-title">How to Find Us</h6>
                         <div class="inset-xl-right-20" style="max-width: 510px;">
                             <p class="text-spacing--30 text-star-dust">If you have any questions, just fill in the contact form, and we will answer you shortly. If you are living nearby, come visit Safari Insurance Limited at one of our comfortable offices</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="col-md-6 col-lg-3 col-xl-3">
                         <h6 class="h6 footer-title">Headquartes</h6>
                         <address class="contact-info text-left">
                             <div class="unit unit-horizontal unit-spacing-xs">
@@ -70,7 +70,7 @@
                             </div>
                         </address>
                     </div>
-                    <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="col-md-6 col-lg-3 col-xl-3">
                         <h6 class="h6 footer-title">Support Center</h6>
                         <address class="contact-info text-left">
                             <div class="unit unit-horizontal unit-spacing-xs align-items-center">
@@ -80,6 +80,19 @@
                             <div class="unit unit-horizontal unit-spacing-xs align-items-center">
                                 <div class="unit-left"><span class="icon icon-xs icon-primary fa fa-envelope-o"></span></div>
                                 <div class="unit-body"><a  href="#">info@safariinsurance.co.tz</a></div>
+                            </div>
+                        </address>
+                    </div>
+                    <div class="col-md-6 col-lg-3 col-xl-3">
+                        <h6 class="h6 footer-title">Useful Links</h6>
+                        <address class="contact-info text-left">
+                            <div class="unit unit-horizontal unit-spacing-xs align-items-center">
+                                <div class="unit-left"><span class="icon icon-xs icon-primary material-icons-link"></span></div>
+                                <div class="unit-body"><a class="link-white" href="tel:#">Click here to validate Motor Vehicle Insurance Cover</a></div>
+                            </div>
+                            <div class="unit unit-horizontal unit-spacing-xs align-items-center">
+                                <div class="unit-left"><span class="icon icon-xs icon-primary fa fa-download"></span></div>
+                                <div class="unit-body"><a  href="https://www.tira.go.tz/insurance-act">Click here to download the Insurance Act</a></div>
                             </div>
                         </address>
                     </div>
